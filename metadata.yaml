@@ -1,0 +1,53 @@
+_repo: Excitement-for-sale_73704
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Lesser, Milton
+    - Thames, C. H.
+    - Ridgway, Jason
+    - Chase, Adam
+    - Wilder, Stephen
+    - Granger, Darius John
+    - Lesser, Milt
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2024-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73704'
+language: en
+pgterms:marc905: 20240320173250wilder
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Happiness -- Fiction'
+- !lcsh 'Housewives -- Fiction'
+- !lcsh 'Sales personnel -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Excitement for sale
+url: http://www.gutenberg.org/ebooks/73704
